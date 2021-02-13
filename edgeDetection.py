@@ -1,8 +1,8 @@
 import cv2
 import numpy as np
-import matplotlib
-from matplotlib.pyplot import imshow
-from matplotlib import pyplot as plt
+# import matplotlib
+# from matplotlib.pyplot import imshow
+# from matplotlib import pyplot as plt
 
 
 img = cv2.imread('IMG_6217.jpeg')# get image
